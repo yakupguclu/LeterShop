@@ -1,0 +1,123 @@
+D:\Asp.NET MVC\SadikTuran\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\Asp.NET MVC\SadikTuran\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.AssemblyInfoInputs.cache
+D:\Asp.NET MVC\SadikTuran\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.AssemblyInfo.cs
+D:\Asp.NET MVC\SadikTuran\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.csprojAssemblyReference.cache
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.deps.json
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.pdb
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.csprojAssemblyReference.cache
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.AssemblyInfoInputs.cache
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.AssemblyInfo.cs
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.csproj.CopyComplete
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.pdb
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.runtimeconfig.json
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.runtimeconfig.dev.json
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.genruntimeconfig.cache
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.csprojAssemblyReference.cache
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.AssemblyInfoInputs.cache
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.AssemblyInfo.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.pdb
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.deps.json
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.runtimeconfig.json
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.runtimeconfig.dev.json
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.pdb
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.csproj.CopyComplete
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.genruntimeconfig.cache
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.deps.json
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.runtimeconfig.json
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.runtimeconfig.dev.json
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.pdb
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.Entities.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.AssemblyInfo.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.csproj.CopyComplete
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.pdb
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.genruntimeconfig.cache
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.deps.json
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.runtimeconfig.json
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.runtimeconfig.dev.json
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.pdb
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.csprojAssemblyReference.cache
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.csproj.CoreCompileInputs.cache
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.AssemblyInfoInputs.cache
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.AssemblyInfo.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.csproj.CopyComplete
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.pdb
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.genruntimeconfig.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.deps.json
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.runtimeconfig.json
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.runtimeconfig.dev.json
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.pdb
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.csprojAssemblyReference.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.AssemblyInfoInputs.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.AssemblyInfo.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.csproj.CoreCompileInputs.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.csproj.CopyComplete
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.pdb
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.genruntimeconfig.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.deps.json
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.runtimeconfig.json
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.runtimeconfig.dev.json
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.pdb
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.csprojAssemblyReference.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.AssemblyInfoInputs.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.AssemblyInfo.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.csproj.CoreCompileInputs.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.csproj.CopyComplete
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.pdb
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.genruntimeconfig.cache
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.deps.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.runtimeconfig.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.runtimeconfig.dev.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.pdb
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.csprojAssemblyReference.cache
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.AssemblyInfoInputs.cache
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.AssemblyInfo.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.csproj.CoreCompileInputs.cache
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.csproj.CopyComplete
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.pdb
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.genruntimeconfig.cache
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.deps.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.runtimeconfig.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.runtimeconfig.dev.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.pdb
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.DataAccess\bin\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.csprojAssemblyReference.cache
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.AssemblyInfoInputs.cache
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.AssemblyInfo.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.csproj.CoreCompileInputs.cache
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.csproj.CopyComplete
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.pdb
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.DataAccess\obj\Debug\netcoreapp3.1\ShopApp.DataAccess.genruntimeconfig.cache

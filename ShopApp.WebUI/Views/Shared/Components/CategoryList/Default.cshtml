@@ -1,0 +1,48 @@
+﻿@model CategoryListViewModel
+
+
+<ul class="list-group">
+    @foreach (var item in Model.Categories)
+    {
+        <a asp-controller="Shop"
+           asp-action="List"
+           asp-route-category="@item.Name.ToLower()"
+           class="list-group-item list-group-item-action @(Model.SelectedCategory==item.Name.ToLower()?"active":"" )">
+            @* Active yapma işlemi çalışmadı *@
+            @item.Name
+        </a>
+    }
+</ul>
+
+@using (Html.BeginForm("List", "Shop", FormMethod.Post))
+{
+    <div class="product-sidebar">
+        <div class="product-sidebar-widget">
+            <h4 class="mb-0">Filtrele</h4>
+        </div>
+        <div class="product-sidebar-widget">
+            <h4 class="product-sidebar-widget-title">Kategoriler</h4>
+            @foreach (var item in Model.Categories)
+            {
+                var css = "";
+                if (item.Name.ToLower() == Model.SelectedCategory)
+                {
+                    css += "checked";
+                }
+                <div class="custom-control custom-checkbox">
+                    <input type="checkbox" @css  class="custom-control-input"  name="@item.Name" value="@item.Name" id="@item.Name">
+                    <label asp-controller="Shop" action class="custom-control-label" for="@item.Name">@item.Name</label>
+                </div>
+                <br />
+            }
+            <div class="custom-control ml-4">
+                <button type="submit" class="btn btn-rounded btn-primary">Listele</button>
+            </div>
+        </div>
+
+    </div>
+
+   
+}
+
+

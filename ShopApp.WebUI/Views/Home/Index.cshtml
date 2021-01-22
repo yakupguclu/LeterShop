@@ -1,0 +1,19 @@
+﻿@model ShopApp.WebUI.Models.ProducListModel
+
+    <div class="row">
+        <div class="col-md-3 mt-5">
+            @await Component.InvokeAsync("CategoryList")
+        </div>
+
+        <div class="col-md-9">
+            <partial name="_slider" />
+            <div class="row mt-3">
+                @foreach (var product in Model.Products)
+                {
+                    <partial name="_product" for="@product" />
+                }
+            </div>
+           
+
+        </div>
+    </div>

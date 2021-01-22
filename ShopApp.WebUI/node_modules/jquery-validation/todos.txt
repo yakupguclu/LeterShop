@@ -1,0 +1,63 @@
+* Remove autoCreateRanges property
+* Create PR for extract-jquery-validator-format branch
+* After landing the email change: Split out a methods.js (see placeholder); No update in Gruntfile needed
+
+---
+
+Cleanup test
+
+* update or remove events.html, large.html, tabs.html, selects/index.html
+* remove firebug/ (and remaining usage, if any)
+* update to latest QUnit (1.12)
+
+---
+
+Bounty-source fundraiser anlegen!
+
+* alte roadmap nehmen (von pledgie?) und aktualisieren
+* was ist seit dem letzten fundraiser (via pledgie) alles passiert?
+	* neue website mit jetzt schon besserem content
+	* logo, design (wenn auch noch nicht online)
+	* diverse bug fixes
+	* erste ARIA unterstützung
+	* neue email validierung
+	* release 1.12.0
+* wieviel geld nehmen?
+	* Pledgie hatte 4.000 als Ziel
+	* Davon sind ? zusammen gekommen
+	* Nochmal 4.000?
+	* 6k? 10k?
+	* Welche Optionen bietet Bountysource? An all-or-nothing habe ich wenig Interesse
+	* Was ist das Flexible Funding hier? https://www.bountysource.com/fundraisers/325-js-git
+
+---
+
+Follow-up ticket für https://github.com/jzaefferer/jquery-validation/pull/796 anlegen!
+ "The problem is then any elements that are added later, which the plugin supports thanks to event delegation. Back when it didn't have that, there was a refresh method. I hope we can avoid having to add that back..."
+ Antwort von Nick: "Nope, that one stumped me. I tried plugging in the aria-required, but I couldn't find the correct spot to leverage the rules defined in settings. Reading http://www.w3.org/TR/WCAG-TECHS/ARIA2.html again, I think that flagging them required after the fact is still "OK", just less than ideal. "
+
+---
+
+Try saucelabs via sauce.sh
+If that works, try to run from local (and eventually, Travis) with Tunnel
+If that works, see if I can wrap that in a tiny grunt plugin
+Maybe reuse something from grunt-saucelabs, or provide a PR for them
+Of course assuming that there's useful output for failing tests
+
+---
+
+Create PR from email-method-html5
+Ping contributors from https://github.com/jzaefferer/jquery-validation/issues/828 for review
+Want at least one "thumbs up", preferably Scott and Nick
+Once merged, post an answer to http://stackoverflow.com/questions/4320574/why-is-jquerys-email-validation-regex-so-simple/15659649#15659649
+Pointing out the update to the HTML5 regex, which doesn't allow unicode characters. Which is reasonable, since email and DNS don't really support it either.
+
+---
+
+Comment on https://github.com/jzaefferer/jquery-validation/pull/900/files Line 691:
+
+This breaks the `errorsFor` method for non-label elements, as that matches error elements based on the for-attribute. We need a unit test that actually checks that an error element gets updated after its first use, which your new test doesn't cover - and it looks like no existing test does either.
+
+How about a `data-for` attribute, replacing the for-attribute as its used right now, then also adding a regular for-attribute for labels?
+
+Thinking more about this, maybe its a bad idea to use a label element for errors in the first place. We can just add a click-handler on the label to link it to the input (click to focus). We could use aria-describedby to link the error messages to the input. Or maybe there's something that's more appropriate in this context.

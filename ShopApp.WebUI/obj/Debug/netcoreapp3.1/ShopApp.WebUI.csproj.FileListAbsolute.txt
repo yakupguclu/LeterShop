@@ -1,0 +1,1573 @@
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Business.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csprojAssemblyReference.cache
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfoInputs.cache
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfo.cs
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cache
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.exe
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.deps.json
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.json
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.dev.json
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Business.pdb
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.pdb
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CoreCompileInputs.cache
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.MvcApplicationPartsAssemblyInfo.cache
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CopyComplete
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.Manifest.cache
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.xml
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.genruntimeconfig.cache
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cache
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cs
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.input.cache
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.output.cache
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorCoreGenerate.cache
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cs
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.SqlServer.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Business.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Business.pdb
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.pdb
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csprojAssemblyReference.cache
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cache
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfoInputs.cache
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfo.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.input.cache
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.output.cache
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorCoreGenerate.cache
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cache
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CopyComplete
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.exe
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.deps.json
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.json
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.dev.json
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.Manifest.cache
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.xml
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.genruntimeconfig.cache
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\package-lock.json
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\package.json
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_slider.cshtml.g.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\libman.json
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shop\List.cshtml.g.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Details.cshtml.g.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateProduct.cshtml.g.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ProductList.cshtml.g.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditProduct.cshtml.g.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CategoryList.cshtml.g.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCategory.cshtml.g.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCategory.cshtml.g.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\SendGrid.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_resultmessage.cshtml.g.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\Accesdenied.cshtml.g.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\AddToCard.cshtml.g.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\Index.cshtml.g.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\Checkout.cshtml.g.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\IyzipayCore.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\Success.cshtml.g.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\GetOrders.cshtml.g.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_reviews.cshtml.g.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Less.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CoreCompileInputs.cache
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.MvcApplicationPartsAssemblyInfo.cache
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\package.json
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.exe
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.deps.json
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.json
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.dev.json
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\IyzipayCore.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Less.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.SqlServer.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\SendGrid.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Business.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Entities.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Business.pdb
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.pdb
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csprojAssemblyReference.cache
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfoInputs.cache
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfo.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cache
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.input.cache
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.output.cache
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorCoreGenerate.cache
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\Accesdenied.cshtml.g.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CategoryList.cshtml.g.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCategory.cshtml.g.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateProduct.cshtml.g.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCategory.cshtml.g.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditProduct.cshtml.g.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ProductList.cshtml.g.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\AddToCard.cshtml.g.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\Checkout.cshtml.g.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\GetOrders.cshtml.g.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\Index.cshtml.g.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\Success.cshtml.g.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_resultmessage.cshtml.g.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_reviews.cshtml.g.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_slider.cshtml.g.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Details.cshtml.g.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shop\List.cshtml.g.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CopyComplete
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.xml
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.genruntimeconfig.cache
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.MvcApplicationPartsAssemblyInfo.cache
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\libman.json
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\package-lock.json
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\package.json
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.exe
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.deps.json
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.json
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.dev.json
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\IyzipayCore.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Less.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.SqlServer.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\SendGrid.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Business.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Business.pdb
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.pdb
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csprojAssemblyReference.cache
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CoreCompileInputs.cache
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.MvcApplicationPartsAssemblyInfo.cache
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cache
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfoInputs.cache
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfo.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.input.cache
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.output.cache
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorCoreGenerate.cache
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\Accesdenied.cshtml.g.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CategoryList.cshtml.g.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCategory.cshtml.g.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateProduct.cshtml.g.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCategory.cshtml.g.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditProduct.cshtml.g.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ProductList.cshtml.g.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\AddToCard.cshtml.g.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\Checkout.cshtml.g.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\GetOrders.cshtml.g.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\Index.cshtml.g.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\Success.cshtml.g.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_resultmessage.cshtml.g.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_reviews.cshtml.g.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_slider.cshtml.g.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Details.cshtml.g.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shop\List.cshtml.g.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cache
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CopyComplete
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.Manifest.cache
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.xml
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.genruntimeconfig.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\libman.json
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\package-lock.json
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\package.json
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.exe
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.deps.json
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.json
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.dev.json
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\IyzipayCore.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Less.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.SqlServer.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\SendGrid.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Business.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Business.pdb
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.pdb
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csprojAssemblyReference.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfoInputs.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfo.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CoreCompileInputs.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.MvcApplicationPartsAssemblyInfo.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.Manifest.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.xml
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ShopApp.WebUI.styles.css
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.input.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.output.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorCoreGenerate.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\Accesdenied.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CategoryList.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCategory.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateProduct.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCategory.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditProduct.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ProductList.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\AddToCard.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\Checkout.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\GetOrders.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\Index.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\Success.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_resultmessage.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_reviews.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_slider.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Details.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shop\List.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CopyComplete
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.genruntimeconfig.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\libman.json
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\package-lock.json
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\package.json
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.exe
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.deps.json
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.json
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.dev.json
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\IyzipayCore.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Less.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.SqlServer.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\SendGrid.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Business.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Business.pdb
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.pdb
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csprojAssemblyReference.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfoInputs.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfo.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CoreCompileInputs.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.MvcApplicationPartsAssemblyInfo.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.Manifest.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.xml
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ShopApp.WebUI.styles.css
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.input.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.output.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorCoreGenerate.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\Accesdenied.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CategoryList.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCategory.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateProduct.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCategory.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditProduct.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ProductList.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\AddToCard.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\Checkout.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\GetOrders.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\Index.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\Success.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_resultmessage.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_reviews.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_slider.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Details.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shop\List.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CopyComplete
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.genruntimeconfig.cache
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\libman.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\package-lock.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\package.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\advanced-datatable\scripts\jshint.config
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\advanced-datatable\component.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\advanced-datatable\package.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\bootstrap-datetimepicker\bower.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\bootstrap-switch\bower.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\bootstrap-switch\component.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\bootstrap-switch\composer.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\chart-master\component.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\flot\examples\data-eu-gdp-growth-1.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\flot\examples\data-eu-gdp-growth-2.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\flot\examples\data-eu-gdp-growth-3.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\flot\examples\data-eu-gdp-growth-4.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\flot\examples\data-eu-gdp-growth-5.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\flot\examples\data-eu-gdp-growth.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\flot\examples\data-japan-gdp-growth.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\flot\examples\data-usa-gdp-growth.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\jquery-file-upload\blueimp-file-upload.jquery.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\jquery-file-upload\package.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\jquery-file-upload\server\node\package.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\jquery-multi-select\bower.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\jquery-multi-select\multi-select.jquery.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\morris.js-0.4.3\component.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\morris.js-0.4.3\package.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.exe
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.deps.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.dev.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\IyzipayCore.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Less.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.SqlServer.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\SendGrid.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Business.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Business.pdb
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.pdb
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csprojAssemblyReference.cache
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfoInputs.cache
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfo.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CoreCompileInputs.cache
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.MvcApplicationPartsAssemblyInfo.cache
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cache
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.Manifest.cache
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.xml
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ShopApp.WebUI.styles.css
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.input.cache
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.output.cache
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorCoreGenerate.cache
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\Accesdenied.cshtml.g.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CategoryList.cshtml.g.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCategory.cshtml.g.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateProduct.cshtml.g.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCategory.cshtml.g.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditProduct.cshtml.g.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ProductList.cshtml.g.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\AddToCard.cshtml.g.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\Checkout.cshtml.g.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\GetOrders.cshtml.g.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\Index.cshtml.g.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\Success.cshtml.g.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_resultmessage.cshtml.g.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_reviews.cshtml.g.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_slider.cshtml.g.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Details.cshtml.g.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shop\List.cshtml.g.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cache
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CopyComplete
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.genruntimeconfig.cache
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\advanced-datatable\scripts\jshint.config
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\advanced-datatable\component.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\advanced-datatable\package.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\bootstrap-datetimepicker\bower.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\bootstrap-switch\bower.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\bootstrap-switch\component.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\bootstrap-switch\composer.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\chart-master\component.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\flot\examples\data-eu-gdp-growth-1.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\flot\examples\data-eu-gdp-growth-2.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\flot\examples\data-eu-gdp-growth-3.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\flot\examples\data-eu-gdp-growth-4.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\flot\examples\data-eu-gdp-growth-5.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\flot\examples\data-eu-gdp-growth.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\flot\examples\data-japan-gdp-growth.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\flot\examples\data-usa-gdp-growth.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\jquery-file-upload\blueimp-file-upload.jquery.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\jquery-file-upload\package.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\jquery-file-upload\server\node\package.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\jquery-multi-select\bower.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\jquery-multi-select\multi-select.jquery.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\morris.js-0.4.3\component.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Content\Admin\assets\morris.js-0.4.3\package.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\libman.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\package-lock.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\package.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.exe
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.deps.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.dev.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\IyzipayCore.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Less.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.SqlServer.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\SendGrid.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Business.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Business.pdb
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.pdb
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csprojAssemblyReference.cache
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfoInputs.cache
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfo.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CoreCompileInputs.cache
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.MvcApplicationPartsAssemblyInfo.cache
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cache
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.Manifest.cache
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.xml
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ShopApp.WebUI.styles.css
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.input.cache
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.output.cache
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorCoreGenerate.cache
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\Accesdenied.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CategoryList.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCategory.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateProduct.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCategory.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditProduct.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ProductList.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\AddToCard.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\Checkout.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\GetOrders.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\Index.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Card\Success.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_resultmessage.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_reviews.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_slider.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Details.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shop\List.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cache
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CopyComplete
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.genruntimeconfig.cache

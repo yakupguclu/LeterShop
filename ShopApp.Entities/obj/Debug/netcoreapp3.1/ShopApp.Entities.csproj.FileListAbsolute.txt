@@ -1,0 +1,71 @@
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp3.1\ShopApp.Entities.deps.json
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.csprojAssemblyReference.cache
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.csproj.CoreCompileInputs.cache
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.AssemblyInfoInputs.cache
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.AssemblyInfo.cs
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\Asp.NETMVC\SadikTuran\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp3.1\ShopApp.Entities.deps.json
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.csprojAssemblyReference.cache
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.AssemblyInfoInputs.cache
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.AssemblyInfo.cs
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\Asp_NETMVC\SadikTuran\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.Entities\bin\Debug\netcoreapp3.1\ShopApp.Entities.deps.json
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.Entities\bin\Debug\netcoreapp3.1\ShopApp.Entities.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.Entities\bin\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.AssemblyInfoInputs.cache
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.AssemblyInfo.cs
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.dll
+C:\Users\king_\Desktop\ShopAppSpec\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.Entities\bin\Debug\netcoreapp3.1\ShopApp.Entities.deps.json
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.Entities\bin\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.Entities\bin\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.csprojAssemblyReference.cache
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.csproj.CoreCompileInputs.cache
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.AssemblyInfoInputs.cache
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.AssemblyInfo.cs
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\4.Sınıf\Yazılım Bakımı\ShopAppSpec\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.Entities\bin\Debug\netcoreapp3.1\ShopApp.Entities.deps.json
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.Entities\bin\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.Entities\bin\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.csprojAssemblyReference.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.AssemblyInfoInputs.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.AssemblyInfo.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.csproj.CoreCompileInputs.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\ShopAppSpec-main\ShopAppSpec-main\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.Entities\bin\Debug\netcoreapp3.1\ShopApp.Entities.deps.json
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.Entities\bin\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.Entities\bin\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.csprojAssemblyReference.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.AssemblyInfoInputs.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.AssemblyInfo.cs
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.csproj.CoreCompileInputs.cache
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\Windows10\Desktop\BitirmeTezi\VS\LeterShopApp\LeterShop\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.Entities\bin\Debug\netcoreapp3.1\ShopApp.Entities.deps.json
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.Entities\bin\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.Entities\bin\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.csprojAssemblyReference.cache
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.AssemblyInfoInputs.cache
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.AssemblyInfo.cs
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.csproj.CoreCompileInputs.cache
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\Windows10\Desktop\LeterShopApp\LeterShop\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.Entities\bin\Debug\netcoreapp3.1\ShopApp.Entities.deps.json
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.Entities\bin\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.Entities\bin\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.csprojAssemblyReference.cache
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.AssemblyInfoInputs.cache
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.AssemblyInfo.cs
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.csproj.CoreCompileInputs.cache
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\Windows10\Desktop\BitirmeTezi\LeterShopApp\LeterShop\ShopApp.Entities\obj\Debug\netcoreapp3.1\ShopApp.Entities.pdb

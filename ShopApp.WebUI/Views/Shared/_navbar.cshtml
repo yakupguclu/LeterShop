@@ -1,0 +1,67 @@
+﻿<nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top mb-5">
+    <div class="container">
+        <a class="navbar-brand" href="/">Shopping</a>
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+                <a asp-controller="Home" asp-action="Index" class="nav-link">Ana Sayfa</a>
+            </li>
+            <li class="nav-item">
+                <a asp-controller="Shop" asp-action="List" class="nav-link">Ürünler</a>
+            </li>
+
+            @if (User.Identity.IsAuthenticated)
+            {
+                <li class="nav-item">
+                    <a asp-controller="Card" asp-action="GetOrders" class="nav-link">Siparişler</a>
+                </li>
+               
+                if (User.IsInRole("admin"))
+                {
+                    <li class="nav-item">
+                        <a asp-controller="Admin" asp-action="CreateProduct" class="nav-link">Tekil Ürün Oluştur</a>
+                    </li>
+                    <li class="nav-item">
+                        <a asp-controller="Admin" asp-action="ProductList" class="nav-link">Ürünler</a>
+                    </li>
+                    <li class="nav-item">
+                        <a asp-controller="Admin" asp-action="CreateCategory" class="nav-link">Kategori Ekle</a>
+                    </li>
+                    <li class="nav-item">
+                        <a asp-controller="Admin" asp-action="CategoryList" class="nav-link">Kategoriler</a>
+                    </li>
+                }
+            }
+
+        </ul>
+
+        <ul class="navbar-nav ml-auto">
+
+            @if (User.Identity.IsAuthenticated)
+            {
+                <li class="nav-item">
+                    <a asp-controller="Account" asp-action="Manage" class="nav-link">
+                        @User.Identity.Name.ToUpper()
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a asp-controller="Account" asp-action="Logout" class="nav-link">Çıkış</a>
+                </li>
+                <li  class="nav-item">
+                    <a asp-controller="Card" asp-action="Index" class="nav-link"><i class="fas fa-cart-plus"></i> </a> 
+                </li>
+            }
+            else
+            {
+                <li class="nav-item">
+                    <a asp-controller="Account" asp-action="Login" class="nav-link">Giriş</a>
+                </li>
+                <li class="nav-item">
+                    <a asp-controller="Account" asp-action="Register" class="nav-link">Kayıt Ol</a>
+                </li>
+            }
+        </ul>
+    </div>
+</nav>
+<br />
+<br />
+<br />

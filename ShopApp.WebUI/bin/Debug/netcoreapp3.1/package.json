@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "name": "asp.net",
+  "private": true,
+  "devDependencies": {},
+  "dependencies": {
+    "bootstrap": "4.5.2",
+    "jquery": "3.5.1",
+    "jquery-validation": "1.13.1",  //client bazlý validasyonularý getirerek server'ý daha az yoruyoruz.
+    "jquery-validation-unobtrusive": "3.2.11",
+    "ckeditor": "4.11.4"
+      
+  }
+}
+

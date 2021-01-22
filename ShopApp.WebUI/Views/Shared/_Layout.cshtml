@@ -1,0 +1,118 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+
+
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
+    <link href="/modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="/css/style.css" rel="stylesheet" />
+    <link href="~/twitter-bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Bootstrap CSS -->
+
+    <link href="~/concept-master/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+    <link href="~/concept-master/assets/vendor/fonts/circular-std/style.css" rel="stylesheet" />
+
+    <link href="~/concept-master/assets/libs/css/style.css" rel="stylesheet" />
+
+    <link href="~/concept-master/assets/vendor/fonts/fontawesome/css/fontawesome-all.css" rel="stylesheet" />
+
+    <link href="~/concept-master/assets/vendor/charts/chartist-bundle/chartist.css" rel="stylesheet" />
+
+    <link href="~/concept-master/assets/vendor/charts/morris-bundle/morris.css" rel="stylesheet" />
+
+    <link href="~/concept-master/assets/vendor/fonts/material-design-iconic-font/css/materialdesignicons.min.css" rel="stylesheet" />
+
+    <link href="~/concept-master/assets/vendor/charts/c3charts/c3.css" rel="stylesheet" />
+
+    <link href="~/concept-master/assets/vendor/fonts/flag-icon-css/flag-icon.min.css" rel="stylesheet" />
+
+
+    <link href="~/concept-master/assets/vendor/datatables/css/dataTables.bootstrap4.css" rel="stylesheet" />
+
+    <link href="~/concept-master/assets/vendor/datatables/css/buttons.bootstrap4.css" rel="stylesheet" />
+
+    <link href="~/concept-master/assets/vendor/datatables/css/select.bootstrap4.css" rel="stylesheet" />
+    <link href="~/concept-master/assets/vendor/datatables/css/fixedHeader.bootstrap4.css" rel="stylesheet" />
+
+
+
+
+
+    <title>ShopApp</title>
+</head>
+<body>
+    <partial name="_navbar" />
+
+    <div class="container pt-100 mt-5">
+
+        @if (TempData["message"] != null)
+        {
+            <partial name="_resultmessage" model="@(TempData.Get<ResultMessage>("message"))" />
+        }
+
+        @RenderBody()
+    </div>
+
+    <script src="/modules/jquery/dist/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="/modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="~/twitter-bootstrap/js/bootstrap.min.js"></script>
+    <!-- Optional JavaScript -->
+    <!-- jquery 3.3.1 -->
+    <script src="~/concept-master/assets/vendor/jquery/jquery-3.3.1.min.js"></script>
+    <!-- bootstap bundle js -->
+    <script src="~/concept-master/assets/vendor/bootstrap/js/bootstrap.bundle.js"></script>
+    <!-- slimscroll js -->
+    <script src="~/concept-master/assets/vendor/slimscroll/jquery.slimscroll.js"></script>
+    <!-- main js -->
+    <script src="~/concept-master/assets/libs/js/main-js.js"></script>
+    <!-- chart chartist js -->
+    <link href="~/concept-master/assets/vendor/charts/chartist-bundle/chartist.css" rel="stylesheet" />
+    <!-- sparkline js -->
+    <script src="~/concept-master/assets/vendor/charts/sparkline/jquery.sparkline.js"></script>
+    <!-- morris js -->
+    <script src="~/concept-master/assets/vendor/charts/morris-bundle/raphael.min.js"></script>
+    <link href="~/concept-master/assets/vendor/charts/morris-bundle/morris.css" rel="stylesheet" />
+    <!-- chart c3 js -->
+    <script src="~/concept-master/assets/vendor/charts/c3charts/c3.min.js"></script>
+    <script src="~/concept-master/assets/vendor/charts/c3charts/d3-5.4.0.min.js"></script>
+    <script src="~/concept-master/assets/vendor/charts/c3charts/C3chartjs.js"></script>
+    <script src="~/concept-master/assets/libs/js/dashboard-ecommerce.js"></script>
+
+
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+
+    <script src="https://cdn.datatables.net/buttons/1.5.2/js/dataTables.buttons.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/pdfmake.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/vfs_fonts.js"></script>
+    <script src="https://cdn.datatables.net/buttons/1.5.2/js/buttons.html5.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/1.5.2/js/buttons.print.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/1.5.2/js/buttons.colVis.min.js"></script>
+    <script src="https://cdn.datatables.net/rowgroup/1.0.4/js/dataTables.rowGroup.min.js"></script>
+    <script src="https://cdn.datatables.net/select/1.2.7/js/dataTables.select.min.js"></script>
+    <script src="https://cdn.datatables.net/fixedheader/3.1.5/js/dataTables.fixedHeader.min.js"></script>
+
+
+
+
+
+    @RenderSection("Scripts", false)   @*İstediğimiz sayfalarda çalıştırılmasını istediğimiz scriptleri böyle ekleriz*@
+
+</body>
+</html>

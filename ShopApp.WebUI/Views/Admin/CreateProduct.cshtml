@@ -1,0 +1,64 @@
+﻿@model ProductModel
+@{
+    ViewData["Title"] = "CrateProduct";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@section Scripts {
+    <script src="~/modules/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/modules/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/modules/ckeditor/ckeditor.js"></script>
+    <script>
+        CKEDITOR.replace("editor");
+    </script>
+}
+
+<h1>Create Product</h1>
+<hr />
+<div class="row">
+    <div class="col-md-8">
+        @if (ViewBag.ErrorMessage != null)
+        {
+            <div class="text-danger">@ViewBag.ErrorMessage</div>
+        }
+    <form asp-controller="Admin" asp-action="CreateProduct" method="post" enctype="multipart/form-data">
+        @*enctype="multipart/form-data dosya göndermek için kullanılır*@
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <div class="form-group row">
+            <label asp-for="Name" class="col-md-2 col-form-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group row">
+            <label asp-for="ImageUrl" class="col-md-2 col-form-label"></label>
+            <div class="col-md-10">
+                <img src="~/img/@Model.ImageUrl" width="80" />
+                <input type="file" name="file" value="" />
+            </div>
+        </div>
+        <div class="form-group row">
+            <label asp-for="Description" class="col-md-2 col-form-label"></label>
+            <div class="col-md-10">
+                <textarea id="editor" asp-for="Description" class="form-control">
+                    </textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group row">
+            <label asp-for="Price" class="col-md-2 col-form-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class="col-md-10 offset-md-2">
+                <button type="submit" class="btn btn-primary">Save Product</button>
+            </div>
+        </div>
+    </form>
+    </div>
+</div>

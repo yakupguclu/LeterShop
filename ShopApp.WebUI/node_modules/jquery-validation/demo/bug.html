@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>jQuery validation plug-in - main demo</title>
+	<link rel="stylesheet" href="css/screen.css">
+</head>
+<body>
+<p>After click on login form with username empty, press backspace several times and see a message being cloned several times</p>
+
+<form method="get" class="cmxform" id="form1" action="">
+	<fieldset>
+		<legend>Login Form</legend>
+		<p>
+			<label>Username</label>
+            <input id="user[x]" name="user[x]" />
+		</p>
+		<p>
+            <input class="submit" type="submit" value="Login" />
+		</p>
+	</fieldset>
+</form>
+
+<script src="../lib/jquery.js"></script>
+<script src="../dist/jquery.validate.js"></script>
+<script>
+$(".cmxform").validate({
+	 errorElement: "span",
+     errorClass: "help-inline",
+     debug: true,
+			rules:
+			{
+				'user[x]': 'required'
+            }
+});
+</script>
+
+</body></html>

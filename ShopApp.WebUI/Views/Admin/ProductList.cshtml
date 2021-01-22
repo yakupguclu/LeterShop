@@ -1,0 +1,51 @@
+﻿@model ProducListModel
+@{
+    ViewData["Title"] = "ProductList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Admin Product</h1>
+@if (Model.Products.Count() > 0)
+{
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <td style="width:30px;">Id</td>
+                <td style="width:100px;">Image</td>
+                <td>Name</td>
+                <td style="width:12px;">Price</td>
+                <td style="width:150px;"></td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Products)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>
+                        <img src="~/img/@item.ImageUrl" width="80" />
+                    </td>
+                    <td>@item.Name</td>
+                    <td>@item.Price</td>
+                    <td>
+                        <a class="btn btn-primary btn-sm mr-2" href="/admin/products/@item.Id">Düzenle</a>
+                        <form action="/Admin/DeleteProduct" method="post" style="display:inline">
+                            <input type="hidden" name="Id" value="@item.Id" />
+                            <button type="submit" class="btn btn-danger btn-sm">Sil</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+
+    </table>
+}
+else
+{
+    <div class="alert alert-warning">
+        <h4>Ürün YOKK</h4>
+    </div>
+}
+

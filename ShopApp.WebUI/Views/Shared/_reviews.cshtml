@@ -1,0 +1,15 @@
+﻿@model Review
+
+
+
+<div class="review-block  border-top mt-3 pt-3">
+    <p class="review-text font-italic m-0">@Model.Description</p>
+    <div class="rating-star mb-4">
+        @for (int x = 1; x <= Model.Star; x++)
+        {
+            <i class="fa fa-fw fa-star"></i>
+        }
+       
+    </div>
+    <span class="text-dark font-weight-bold">@Model.UserFullName</span><small class="text-mute"> (Company name)</small>
+</div>
